@@ -39,6 +39,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansaraKehan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/HansaraKehan/HansaraKehan">
+    <img src="https://img.shields.io/badge/Total%20Apps-3-informational?style=flat-square" alt="Total Apps">
+  </a>
+  <a href="https://github.com/HansaraKehan/CraftPhoto/releases">
+    <img src="https://img.shields.io/github/downloads/HansaraKehan/CraftPhoto/total?label=PhotoCraft&style=flat-square&color=blue" alt="CraftPhoto">
+  </a>
+  <a href="https://github.com/HansaraKehan/Craftlight/releases">
+    <img src="https://img.shields.io/github/downloads/HansaraKehan/Craftlight/total?label=LightCraft&style=flat-square&color=orange" alt="Craftlight">
+  </a>
+  <a href="https://github.com/HansaraKehan/CraftWord/releases">
+    <img src="https://img.shields.io/github/downloads/HansaraKehan/CraftWord/total?label=WordCraft&style=flat-square&color=green" alt="CraftWord">
+  </a>
+</p>
+
+
 ---
 
 ### 🤝 Connect With Me
