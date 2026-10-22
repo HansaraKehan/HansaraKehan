@@ -59,8 +59,6 @@
 </p>
 
 
-[![PhotoCraft Downloads](https://img.shields.io/github/downloads/HansaraKehan/CraftPhoto/total?label=PhotoCraft%20Downloads&style=flat-square&color=blue)]
-
 ---
 
 ### 🤝 Connect With Me
