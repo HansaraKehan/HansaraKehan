@@ -39,6 +39,47 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansaraKehan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+
+### 📊 App Downloads
+
+| Application | Description | Downloads | Link |
+| :--- | :--- | :--- | :--- |
+| **PhotoCraft** | Image editing app | [![Downloads](https://img.shields.io/github/downloads/HansaraKehan/CraftPhoto/total?style=flat-square&color=blue)](https://github.com/HansaraKehan/CraftPhoto/releases) | [Releases](https://github.com/HansaraKehan/CraftPhoto/releases) |
+| **LightCraft** | Light & theme utility | [![Downloads](https://img.shields.io/github/downloads/HansaraKehan/Craftlight/total?style=flat-square&color=orange)](https://github.com/HansaraKehan/Craftlight/releases) | [Releases](https://github.com/HansaraKehan/Craftlight/releases) |
+| **WordCraft** | Text utility app | [![Downloads](https://img.shields.io/github/downloads/HansaraKehan/CraftWord/total?style=flat-square&color=green)](https://github.com/HansaraKehan/CraftWord/releases) | [Releases](https://github.com/HansaraKehan/CraftWord/releases) |
+
+
+<p align="center">
+  <a href="https://github.com/HansaraKehan/CraftPhoto/releases">
+    <img src="https://img.shields.io/github/downloads/HansaraKehan/CraftPhoto/total?label=PhotoCraft&style=flat-square&color=blue" alt="PhotoCraft">
+  </a>
+  <a href="https://github.com/HansaraKehan/Craftlight/releases">
+    <img src="https://img.shields.io/github/downloads/HansaraKehan/Craftlight/total?label=LightCraft&style=flat-square&color=orange" alt="LightCraft">
+  </a>
+  <a href="https://github.com/HansaraKehan/CraftWord/releases">
+    <img src="https://img.shields.io/github/downloads/HansaraKehan/CraftWord/total?label=WordCraft&style=flat-square&color=green" alt="WordCraft">
+  </a>
+  <a href="https://github.com/HansaraKehan/CraftVector/releases">
+    <img src="https://img.shields.io/github/downloads/HansaraKehan/CraftVector/total?label=VectorCraft&style=flat-square&color=purple" alt="VectorCraft">
+  </a>
+  <a href="https://github.com/HansaraKehan/CraftPdf/releases">
+    <img src="https://img.shields.io/github/downloads/HansaraKehan/CraftPdf/total?label=PDFCraft&style=flat-square&color=red" alt="PDFCraft">
+  </a>
+</p>
+
+
+[![PhotoCraft Downloads](https://img.shields.io/github/downloads/HansaraKehan/CraftPhoto/total?label=PhotoCraft%20Downloads&style=flat-square&color=blue)](https://github.com/HansaraKehan/CraftPhoto/releases)
+
+[![LightCraft Downloads](https://img.shields.io/github/downloads/HansaraKehan/Craftlight/total?label=LightCraft%20Downloads&style=flat-square&color=orange)](https://github.com/HansaraKehan/Craftlight/releases)
+
+[![WordCraft Downloads](https://img.shields.io/github/downloads/HansaraKehan/CraftWord/total?label=WordCraft%20Downloads&style=flat-square&color=green)](https://github.com/HansaraKehan/CraftWord/releases)
+
+[![VectorCraft Downloads](https://img.shields.io/github/downloads/HansaraKehan/CraftVector/total?label=VectorCraft%20Downloads&style=flat-square&color=purple)](https://github.com/HansaraKehan/CraftVector/releases)
+
+[![PDFCraft Downloads](https://img.shields.io/github/downloads/HansaraKehan/CraftPdf/total?label=PDFCraft%20Downloads&style=flat-square&color=red)](https://github.com/HansaraKehan/CraftPdf/releases)
+
+
+
 <p align="center">
   <a href="https://github.com/HansaraKehan/HansaraKehan">
     <img src="https://img.shields.io/badge/Total%20Apps-3-informational?style=flat-square" alt="Total Apps">
