@@ -2,8 +2,7 @@
 
 # Status: Offline
 
-**Availability Notice:**  
-I am currently offline and away from all communications. I will return in **mid-December 2026**.
+##I am currently offline and away from all communications. I will return in **mid-December 2026**.
 
 
 
